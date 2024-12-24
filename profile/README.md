@@ -6,6 +6,9 @@
 
 정글로얄은 배틀로얄 게임입니다.
 
+### 프로젝트 진행 상황
+- [이슈 대시보드](https://github.com/orgs/jungle-royale/projects/1)
+
 ### 참여자
 - [정재명](https://github.com/jjm159)
 - [노태호](https://github.com/taehoy)
