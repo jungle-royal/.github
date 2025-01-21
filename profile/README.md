@@ -12,7 +12,6 @@
 
 크래프톤 정글 7기 최종 발표 현장에서 48명의 인원이 게임에 동시에 참여하여 원활하게 플레이할 수 있었습니다.
 
-[![발표 영상 참고](https://img.youtube.com/vi/9ih8SUJHouI/0.jpg)](https://www.youtube.com/watch?v=9ih8SUJHouI)
 - [발표 영상 참고](https://www.youtube.com/watch?v=9ih8SUJHouI)
 
 다음 링크를 통해 게임을 즐겨보실 수 있습니다.
@@ -35,7 +34,7 @@
 - [정글로얄 웹 클라이언트](https://github.com/jungle-royale/jungle-royale-web-client)
 
 ## 프로젝트 상세 정보
-![ㅇㅇ](https://private-user-images.githubusercontent.com/44443949/405260945-a0d99221-0ac9-40ef-a4ca-9b25956afde4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0NzAyMjcsIm5iZiI6MTczNzQ2OTkyNywicGF0aCI6Ii80NDQ0Mzk0OS80MDUyNjA5NDUtYTBkOTkyMjEtMGFjOS00MGVmLWE0Y2EtOWIyNTk1NmFmZGU0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIxVDE0MzIwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0MmYwMGNjNzI1YmZhOTM2NmI3YzhkN2NmMGMwZGZkNWUwZTFiN2U4YmJhNDhjMmNkM2IzMWEzOTQ4M2NiNjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.A8yBiejlHl-RrZSZVIN_q2JbOgp-HunyNAgvR9Rb3kA)
+![프로젝트 상세 정보](https://private-user-images.githubusercontent.com/44443949/405276395-561b7e31-e106-4dd6-9a0a-0a3ad78e8100.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0NzI1NzgsIm5iZiI6MTczNzQ3MjI3OCwicGF0aCI6Ii80NDQ0Mzk0OS80MDUyNzYzOTUtNTYxYjdlMzEtZTEwNi00ZGQ2LTlhMGEtMGEzYWQ3OGU4MTAwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIxVDE1MTExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzM2ZiYTllZmMyZWVhMmE3N2U3YjA5ZGNiMTg5YTBiOWI5NWRmYTFhMjlmNGMzYTViY2FjZjcxZjk0N2QxMGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bkCA_0CpC53WEEmBimNOh1QIDyHGgrwJjhBmL6k2q3s)
 
 ## 작업 규칙
 - [이슈 생성](https://github.com/orgs/jungle-royale/projects/1/views/3)
@@ -57,7 +56,7 @@
   - feat 		: 새로운 기능 추가
   - fix 		: 버그 수정
   - docs 		: 문서 수정
-  - refactor 	: 코드 리팩토링
+  - refactor 	: 코드 리팩터링
   - test 		: 테스트 코드, 리팽토링 테스트 코드 추가
   - chore 	: 빌드 업무 수정, 패키지 매니저 수정
   ```
