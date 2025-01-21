@@ -1,34 +1,48 @@
-## 크래프톤 정글 7기 4팀 정글로얄
+# 크래프톤 정글 7기 4팀 정글로얄
 
 👋 안녕하세요, 크래프톤 정글 7기 나만무 4팀 정글로얄입니다.
 
-### 프로젝트 소개
+---
 
-정글로얄은 배틀로얄 게임입니다.
+## 프로젝트 소개
 
-### 프로젝트 진행 상황
+눈싸움 배틀로얄 게임 "이터널 스노우맨" 프로젝트입니다.
+
+배틀 그라운드와 같이 동시에 최대 100명의 유저가 게임에 참여하여 최후의 1인을 가리는 배틀로얄 게임입니다.
+
+크래프톤 정글 7기 최종 발표 현장에서 48명의 인원이 게임에 동시에 참여하여 원활하게 플레이할 수 있었습니다.
+
+[![발표 영상 참고](https://img.youtube.com/vi/9ih8SUJHouI/0.jpg)](https://www.youtube.com/watch?v=9ih8SUJHouI)
+
+다음 링크를 통해 게임을 즐겨보실 수 있습니다.
+- [이터널스노우맨 하러가기](http://eternalsnowman.com)
+
+## 프로젝트 진행 상황
 - [이슈 대시보드](https://github.com/orgs/jungle-royale/projects/1)
 
-### 참여자
+## 참여자
 - [정재명](https://github.com/jjm159)
 - [노태호](https://github.com/taehoy)
 - [이은재](https://github.com/Sro01)
 - [이지원](https://github.com/genieljw)
 - [최주혁](https://github.com/joohyuk99)
 
-### 레포지토리
+## 레포지토리
 - [정글로얄 게임 서버](https://github.com/jungle-royale/jungle-royale-game-server)
 - [정글로얄 게임 클라이언트](https://github.com/jungle-royale/jungle-royale-game-client)
 - [정글로얄 웹 서버](https://github.com/jungle-royale/jungle-royale-web-server)
 - [정글로얄 웹 클라이언트](https://github.com/jungle-royale/jungle-royale-web-client)
 
-### 작업 규칙
+## 프로젝트 상세 정보
+![ㅇㅇ](https://private-user-images.githubusercontent.com/44443949/405260945-a0d99221-0ac9-40ef-a4ca-9b25956afde4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0NzAyMjcsIm5iZiI6MTczNzQ2OTkyNywicGF0aCI6Ii80NDQ0Mzk0OS80MDUyNjA5NDUtYTBkOTkyMjEtMGFjOS00MGVmLWE0Y2EtOWIyNTk1NmFmZGU0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIxVDE0MzIwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0MmYwMGNjNzI1YmZhOTM2NmI3YzhkN2NmMGMwZGZkNWUwZTFiN2U4YmJhNDhjMmNkM2IzMWEzOTQ4M2NiNjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.A8yBiejlHl-RrZSZVIN_q2JbOgp-HunyNAgvR9Rb3kA)
+
+## 작업 규칙
 - [이슈 생성](https://github.com/orgs/jungle-royale/projects/1/views/3)
 - 이슈 이름으로 feature branch 생성
 - 작업 후 PR
 - merge 완료 후 issue 종료 및 브랜치 삭제
 
-### 커밋 규칙
+## 커밋 규칙
 - 커밋 메시지 구조
   ```
   Type : Subject
