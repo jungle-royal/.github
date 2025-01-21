@@ -13,6 +13,7 @@
 크래프톤 정글 7기 최종 발표 현장에서 48명의 인원이 게임에 동시에 참여하여 원활하게 플레이할 수 있었습니다.
 
 [![발표 영상 참고](https://img.youtube.com/vi/9ih8SUJHouI/0.jpg)](https://www.youtube.com/watch?v=9ih8SUJHouI)
+- [발표 영상 참고](https://www.youtube.com/watch?v=9ih8SUJHouI)
 
 다음 링크를 통해 게임을 즐겨보실 수 있습니다.
 - [이터널스노우맨 하러가기](http://eternalsnowman.com)
