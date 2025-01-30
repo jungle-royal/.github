@@ -34,7 +34,7 @@
 - [정글로얄 웹 클라이언트](https://github.com/jungle-royale/jungle-royale-web-client)
 
 ## 프로젝트 상세 정보
-![프로젝트 상세 정보](https://private-user-images.githubusercontent.com/44443949/405276395-561b7e31-e106-4dd6-9a0a-0a3ad78e8100.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0NzI1NzgsIm5iZiI6MTczNzQ3MjI3OCwicGF0aCI6Ii80NDQ0Mzk0OS80MDUyNzYzOTUtNTYxYjdlMzEtZTEwNi00ZGQ2LTlhMGEtMGEzYWQ3OGU4MTAwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIxVDE1MTExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzM2ZiYTllZmMyZWVhMmE3N2U3YjA5ZGNiMTg5YTBiOWI5NWRmYTFhMjlmNGMzYTViY2FjZjcxZjk0N2QxMGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bkCA_0CpC53WEEmBimNOh1QIDyHGgrwJjhBmL6k2q3s)
+![프로젝트 상세 정보](https://github.com/jungle-royale/.github/blob/main/namanmu_poster.png)
 
 ## 작업 규칙
 - [이슈 생성](https://github.com/orgs/jungle-royale/projects/1/views/3)
